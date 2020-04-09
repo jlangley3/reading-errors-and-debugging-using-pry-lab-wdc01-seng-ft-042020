@@ -4,7 +4,7 @@ def get_user_input
   gets.chomp
   binding.pry
 end
-
+get_user_input
 
 def prompt_user
   puts "What would you like to do?"
