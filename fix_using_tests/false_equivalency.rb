@@ -5,6 +5,7 @@ def get_user_input
   binding.pry
 end
 
+
 def prompt_user
   puts "What would you like to do?"
   puts "1.) Eat a hamburger."
